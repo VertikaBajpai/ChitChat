@@ -1,7 +1,7 @@
-#ChitChat
+# ChitChat
 
 
--ChitChat App is a real-time messaging application built with Flutter and Firebase, allowing users to chat with each other.
+ChitChat App is a real-time messaging application built with Flutter and Firebase, allowing users to chat with each other.
 ## Technologies Used
 
 - Flutter
