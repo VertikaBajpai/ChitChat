@@ -1,3 +1,4 @@
+import 'package:chat_app/screens/splash_screen.dart';
 import 'package:chat_app/services/auth_service.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -33,6 +34,6 @@ class _MainAppState extends State<MainApp> {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-        debugShowCheckedModeBanner: false, home: AuthService());
+        debugShowCheckedModeBanner: false, home: SplashScreen());
   }
 }
